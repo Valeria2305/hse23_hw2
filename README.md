@@ -22,6 +22,18 @@ https://colab.research.google.com/drive/1srOBw4_hgzPNjaEeb-YncPioWeB7br8p?usp=sh
 - ENCFF318ZNB после подрезания:<br />
 <img width="383" alt="image" src="https://user-images.githubusercontent.com/77625525/222007043-586c0b47-d433-40c5-a27f-1138ce99a7b4.png">
 <img width="473" alt="image" src="https://user-images.githubusercontent.com/77625525/222007066-f11c6409-ff0a-42e9-804f-8d196075537f.png">
+Изначальное качество ENCFF082PFU было лучше (например из per title sequence quality), однако после подрезания стало не особо хуже. Качество ENCFF389PKW практически не изменилось. Качество ENCFF318ZNB улучшилось.
+## Статистика по выравниваниям:
+<img width="880" alt="image" src="https://user-images.githubusercontent.com/77625525/222009467-a5d89c7c-4a32-4913-ad4d-9dcd372210c3.png">
+Процент выравниваний достаточно низкий, потому что выравнивание происходило на одну хромосому, которая не может определять большую часть генома.
+## Диаграммы Эйлера-Венна:
+- Пересечение пиков 1 реплики и ENCODE:<br />
+<img width="631" alt="image" src="https://user-images.githubusercontent.com/77625525/222009752-848f5542-f0d6-4fbc-ae8e-3d708dc2a04c.png">
+<img width="560" alt="image" src="https://user-images.githubusercontent.com/77625525/222009789-83f01468-2a9b-4f0b-bfe1-8c04810e62d6.png">
+
+- Пересечение пиков 2 реплики и ENCODE:<br />
+
+
 
 
 
