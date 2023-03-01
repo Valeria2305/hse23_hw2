@@ -47,8 +47,7 @@ https://colab.research.google.com/drive/1Kmkh4VCktCjt-kpCz_0POktOhtaAnEHZ#scroll
 
 - Пересечение пиков 1 реплики и ENCODE:<br />
 
-<img width="631" alt="image" src="https://user-images.githubusercontent.com/77625525/222009752-848f5542-f0d6-4fbc-ae8e-3d708dc2a04c.png">
-<img width="560" alt="image" src="https://user-images.githubusercontent.com/77625525/222009789-83f01468-2a9b-4f0b-bfe1-8c04810e62d6.png">
+
 
 - Пересечение пиков 2 реплики и ENCODE:<br />
 
