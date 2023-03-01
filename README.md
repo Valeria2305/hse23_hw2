@@ -47,9 +47,14 @@ https://colab.research.google.com/drive/1Kmkh4VCktCjt-kpCz_0POktOhtaAnEHZ#scroll
 
 - Пересечение пиков 1 реплики и ENCODE:<br />
 
-
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/77625525/222130586-0302a40e-ef66-4583-82f7-b05d9b5f6c15.png">
+<img width="319" alt="image" src="https://user-images.githubusercontent.com/77625525/222130494-c3864687-f946-4bb6-bc41-94a703bedb54.png">
 
 - Пересечение пиков 2 реплики и ENCODE:<br />
+
+<img width="533" alt="image" src="https://user-images.githubusercontent.com/77625525/222130703-16c91cea-d662-43ba-97ac-b202a0f42bc6.png">
+<img width="533" alt="image" src="https://user-images.githubusercontent.com/77625525/222130755-c6385b1d-2967-4cf4-90d1-b8f0294eaa12.png">
+Пересечений довольно мало из-за того, что выравнивание производилось только на одну хромосому.<br />
 
 
 
